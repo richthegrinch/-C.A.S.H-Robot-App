@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "122967614539",
+    "project_id": "cash-bunny",
+    "storage_bucket": "cash-bunny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122967614539:android:c8a182800b0a5f716c59ce",
+        "android_client_info": {
+          "package_name": "com.example.senior_research_app_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122967614539-3u5sgg0bf82e0uipkui9lu274cotruii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7F7xq42q6dcwsnuzsa0K5iUAf97ZOec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122967614539-3u5sgg0bf82e0uipkui9lu274cotruii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122967614539-uksd758vlol66elffccd4h4128glvqcb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seniorResearchAppNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
